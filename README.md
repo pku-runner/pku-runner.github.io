@@ -1,9 +1,8 @@
-# pku-runner.github.io
+# PKURunner Android版主页
 
 [下载地址](http://162.105.205.61:10201/apks/pkurunner-latest.apk)
 
 ### 更新日志
-
 #### v0.9.2
 - Changed to a brand new network framework with fewer chances of crashing.
 - Added human-friendly notice.
