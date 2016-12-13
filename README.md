@@ -6,4 +6,4 @@
 
 ### bug 反馈
 - github 用户请使用 issues 功能
-- 若没有 github 账号，请移步[这里](pku-runner.github.io)
+- 若没有 github 账号，请移步[这里](https://pku-runner.github.io)
