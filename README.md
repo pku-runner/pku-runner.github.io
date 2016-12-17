@@ -3,8 +3,19 @@
 [下载地址](http://162.105.205.61:10201/apks/pkurunner-latest.apk)
 
 ### 更新日志
+#### v0.9.3
+- 优化了内存占用，crash几率更低
+- 更新了PKU的i3a验证证书
+- 使用SSL与服务器进行通讯
+- 使用步频传感器，并能在跑步轨迹上方显示跑步步数
+- 重新设计了引导页
+- 能够显示跑步记录验证失败的原因
+- 更新了反馈链接
+
 #### v0.9.3-beta
+
 #### v0.9.3-alpha
+
 #### v0.9.2
 - Changed to a brand new network framework with fewer chances of crashing.
 - Added human-friendly notice.
