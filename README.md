@@ -2,8 +2,6 @@
 
 ### 下载链接
 - Android 用户请移步[这里](https://github.com/pku-runner/pku-runner.github.io/blob/android/README.md)
-  
-  + v0.9.3-beta测试[下载](https://github.com/pku-runner/pku-runner.github.io/releases/tag/v0.9.3-beta)
 - iOS 用户请移步[这里](https://github.com/pku-runner/pku-runner.github.io/blob/ios/README.md)
 
 ### bug 反馈
