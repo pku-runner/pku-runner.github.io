@@ -2,6 +2,15 @@
 
 [下载地址](http://162.105.205.61:10201/apks/pkurunner-latest.apk)
 
+### 截图
+<img src="/snapshots/1.jpg" width="240">
+<img src="/snapshots/2.jpg" width="240">
+<img src="/snapshots/3.jpg" width="240">
+<img src="/snapshots/4.jpg" width="240">
+<img src="/snapshots/5.jpg" width="240">
+<img src="/snapshots/6.jpg" width="240">
+<img src="/snapshots/7.jpg" width="240">
+
 ### 更新日志
 #### v0.9.3
 - 优化了内存占用，crash几率更低
