@@ -38,6 +38,7 @@
 - 点击未上传记录的上传按钮，出现输入 iaaa 密码验证的提示框
 
 _注：如果输入密码错误，将无法进行同步操作，但是仍可以重新验证密码上传记录_
+
 <img src="pic/record_3.jpg" width="200" alt="密码验证" />
 <img src="pic/record_4.jpg" width="200" alt="同步数据提示" />
 
