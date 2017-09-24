@@ -1,6 +1,6 @@
 # PKURunner Android版主页
 
-[下载地址](http://162.105.205.61:10201/apks/pkurunner-latest.apk)
+[下载地址](http://162.105.205.61:10201/public/apks/pkurunner-latest.apk)
 
 ### 截图
 <img src="/snapshots/1.jpg" width="240">
@@ -12,6 +12,18 @@
 <img src="/snapshots/7.jpg" width="240">
 
 ### 更新日志
+#### v0.9.9
+- 全部切换到 i3a 验证 SDK
+- 长按暂停/停止跑步，结束时需要确认
+- 跑步完直接切换到记录页
+- 简化了拍照步骤
+- 一些 UI 改动
+- 能够手动设置性别
+
+#### v0.9.8
+- 能够玄学应对贵校 DNS 抽风
+- 优化了界面显示与提示表述
+- 修复了升级到 v0.9.7 后无法操作数据库的问题
 
 #### v0.9.5
 - 任务系统构建完毕
