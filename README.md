@@ -10,6 +10,8 @@
 <img src="/snapshots/5.jpg" width="240">
 <img src="/snapshots/6.jpg" width="240">
 <img src="/snapshots/7.jpg" width="240">
+<img src="/snapshots/8.jpg" width="240">
+<img src="/snapshots/9.jpg" width="240">
 
 ### 更新日志
 #### v0.9.9
