@@ -1,0 +1,70 @@
+[
+  {
+    "start": "2016-09-30T16:00:00.000Z",
+    "end": "2016-12-10T16:00:00.000Z",
+    "distance": {
+      "male": 63000,
+      "female": 42000
+    },
+    "description": "The first semester of 2016."
+  },
+  {
+    "start": "2017-03-05T16:00:00.000Z",
+    "end": "2017-05-14T16:00:00.000Z",
+    "distance": {
+      "male": 63000,
+      "female": 42000
+    },
+    "description": "The second semester of 2016."
+  },
+  {
+    "start": "2017-03-31T16:00:00.000Z",
+    "end": "2017-04-07T16:00:00.000Z",
+    "distance": {
+      "male": 21000,
+      "female": 21000
+    },
+    "description": "The first online marathon.",
+    "id": "marathon1704",
+    "needVerify": false,
+    "onceEveryDay": false,
+    "needRegister": true
+  },
+  {
+    "start": "1970-01-01T00:00:00.000Z",
+    "end": "1970-01-01T00:00:00.000Z",
+    "distance": {
+      "male": 10000,
+      "female": 10000
+    },
+    "description": "10km Goal.",
+    "id": "total_distance_10km",
+    "needVerify": false,
+    "onceEveryDay": false,
+    "needRegister": false,
+    "ignoreTime": true
+  },
+  {
+    "start": "1970-01-01T00:00:00.000Z",
+    "end": "1970-01-01T00:00:00.000Z",
+    "distance": {
+      "male": 1000,
+      "female": 1000
+    },
+    "description": "1km Goal.",
+    "id": "total_distance_1km",
+    "needVerify": false,
+    "onceEveryDay": false,
+    "needRegister": false,
+    "ignoreTime": true
+  },
+  {
+    "start": "2017-09-24T22:00:00.000Z",
+    "end": "2017-12-03T14:30:00.000Z",
+    "distance": {
+      "male": 63000,
+      "female": 42000
+    },
+    "description": "The first semester of 2017."
+  }
+]
