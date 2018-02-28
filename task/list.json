@@ -68,5 +68,19 @@
       "female": 42000
     },
     "description": "The first semester of 2017."
+  },
+  {
+    "start": "2018-02-25T22:00:00.000Z",
+    "end": "2018-03-25T14:30:00.000Z",
+    "distance": {
+      "male": 1000,
+      "female": 1000
+    },
+    "description": "Tests for sign-up tasks.",
+    "id": "test_distance_1km",
+    "badgeSeries": "activity",
+    "needVerify": false,
+    "onceEveryDay": false,
+    "needRegister": true
   }
 ]
