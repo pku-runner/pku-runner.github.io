@@ -1,9 +1,10 @@
-# PKURunner Android版主页
+# PKURunner Android 版主页
 
 [发布地址](https://github.com/pku-runner/pku-runner.github.io/releases)
-[下载地址](http://pkunewyouth.pku.edu.cn/public/apks/pkurunner-latest.apk)
 
-### 截图（待更新）
+[下载地址](https://pkunewyouth.pku.edu.cn/public/apks/pkurunner-latest.apk)
+
+### 截图
 <img src="/snapshots/1.jpg" width="240">
 <img src="/snapshots/2.jpg" width="240">
 <img src="/snapshots/3.jpg" width="240">
@@ -12,9 +13,31 @@
 <img src="/snapshots/6.jpg" width="240">
 <img src="/snapshots/7.jpg" width="240">
 <img src="/snapshots/8.jpg" width="240">
-<img src="/snapshots/9.jpg" width="240">
 
 ### 更新日志
+#### v0.9.13
+- 增加新版本提示与过旧不兼容提示
+- 设置选项增加菜单
+- 优化 GPS 信号弱时的提示窗口
+
+#### v0.9.12
+- 智能检测地图拖动情况，跑步时保持中心点跟踪
+- 修复了跑步信息卡片触控穿透的 bug
+- 服务器端更新了证书
+- 记录详情页简化轨迹显示，添加了照片加载过渡动画
+- 修复了英文版的崩溃问题
+- 重新设计了进度显示控件
+- 修复了轨迹显示的缩放问题
+- 翻译了服务器返回的错误说明
+
+#### v0.9.11
+- 界面重新设计，大幅重构内部逻辑
+- 支持熄屏记录功能
+- 增加动画与成就徽章素材
+- 使用系统原生定位接口
+- 更新高德 2D 地图库文件
+- 记录页详细视图显示拍摄的照片
+
 #### v0.9.9
 - 全部切换到 i3a 验证 SDK
 - 长按暂停/停止跑步，结束时需要确认

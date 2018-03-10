@@ -1,4 +1,5 @@
 # PKU Runner Android 客户端使用说明
+__[Deprecated]__
 ## 下载
 用户可以通过多种渠道下载本软件：
 + PKU Runner 主页 [https://pku-runner.github.io/](https://pku-runner.github.io/)
