@@ -1,8 +1,9 @@
 # PKURunner Android版主页
 
-[下载地址](http://162.105.205.61:10201/public/apks/pkurunner-latest.apk)
+[发布地址](https://github.com/pku-runner/pku-runner.github.io/releases)
+[下载地址](http://pkunewyouth.pku.edu.cn/public/apks/pkurunner-latest.apk)
 
-### 截图
+### 截图（待更新）
 <img src="/snapshots/1.jpg" width="240">
 <img src="/snapshots/2.jpg" width="240">
 <img src="/snapshots/3.jpg" width="240">
