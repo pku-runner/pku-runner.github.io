@@ -6,6 +6,7 @@
 ```markdown
 - 客户端平台：Android | ios
 - 客户端版本：[v0.9.13] | [1.1 (Build 4)]
+- 客户端下载渠道：酷安 | pkunewyouth | pku-runner.github.io | fir.im | App Store
 - 问题描述
   + 触发场景：
   + 预期结果：
