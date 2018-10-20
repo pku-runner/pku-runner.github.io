@@ -15,6 +15,9 @@
 <img src="/snapshots/8.jpg" width="240">
 
 ### 更新日志
+#### v1.2.4
+- 修复了速度单位制显示的 bug
+
 #### v1.2.3
 - 修复了 Android O 下开始跑步会闪退的 bug
 
